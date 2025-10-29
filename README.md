@@ -23,9 +23,3 @@ pio device monitor -b 115200
 Personaliza:
 - Edita `src/main.cpp` para poner tu SSID/PASSWORD.
 - Copia los HTML que quieras desde `Recursos/` a `data/` para servirlos.
-
-Notas:
-- No subas credenciales a repositorios públicos.
-- Añade `LICENSE` si quieres compartir con una licencia clara.
-
-Listo — si quieres, puedo acortar más o añadir ejemplos concretos desde `src/main.cpp`.
